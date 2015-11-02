@@ -1,13 +1,13 @@
-# less-colours
+# less-colour
 
 ```sh
-npm i -S less-colours
+npm i -S less-colour
 ```
 
 Then, within your less file
 
 ```less
-@import 'less-colours';
+@import 'less-colour';
 
 background {
   color: @--color-db-red;
