@@ -1,6 +1,6 @@
 {
   "name": "less-colour",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Various colour palettes as less variables",
   "main": "index.less",
   "scripts": {
